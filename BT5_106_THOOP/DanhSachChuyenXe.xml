@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSChuyenXe>
+
+	<!-- 10 chuyến của kh01 (để thử yêu cầu 4: lên VIP) -->
+	<ChuyenXe>
+		<UserTaiXe>tx01</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>120</DiaChiDon>
+		<DiaChiDen>450</DiaChiDen>
+		<Distance>8</Distance>
+		<GioDon>23</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx01</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>210</DiaChiDon>
+		<DiaChiDen>330</DiaChiDen>
+		<Distance>5</Distance>
+		<GioDon>09</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx02</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>15</DiaChiDon>
+		<DiaChiDen>600</DiaChiDen>
+		<Distance>12</Distance>
+		<GioDon>04</GioDon>
+		<NgayDi>21/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx02</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>77</DiaChiDon>
+		<DiaChiDen>140</DiaChiDen>
+		<Distance>3</Distance>
+		<GioDon>14</GioDon>
+		<NgayDi>21/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx03</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>301</DiaChiDon>
+		<DiaChiDen>802</DiaChiDen>
+		<Distance>20</Distance>
+		<GioDon>08</GioDon>
+		<NgayDi>22/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx04</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>412</DiaChiDon>
+		<DiaChiDen>95</DiaChiDen>
+		<Distance>15</Distance>
+		<GioDon>10</GioDon>
+		<NgayDi>22/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx01</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>58</DiaChiDon>
+		<DiaChiDen>260</DiaChiDen>
+		<Distance>6</Distance>
+		<GioDon>18</GioDon>
+		<NgayDi>23/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx02</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>333</DiaChiDon>
+		<DiaChiDen>71</DiaChiDen>
+		<Distance>9</Distance>
+		<GioDon>22</GioDon>
+		<NgayDi>23/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx03</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>505</DiaChiDon>
+		<DiaChiDen>19</DiaChiDen>
+		<Distance>25</Distance>
+		<GioDon>07</GioDon>
+		<NgayDi>24/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx05</UserTaiXe>
+		<UserKhach>kh01</UserKhach>
+		<DiaChiDon>640</DiaChiDon>
+		<DiaChiDen>388</DiaChiDen>
+		<Distance>30</Distance>
+		<GioDon>13</GioDon>
+		<NgayDi>24/05/2026</NgayDi>
+	</ChuyenXe>
+
+	<!-- Các chuyến dài để thử thưởng (yêu cầu 16, 17) -->
+	<ChuyenXe>
+		<UserTaiXe>tx03</UserTaiXe>
+		<UserKhach>kh02</UserKhach>
+		<DiaChiDon>11</DiaChiDon>
+		<DiaChiDen>905</DiaChiDen>
+		<Distance>150</Distance>
+		<GioDon>08</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx03</UserTaiXe>
+		<UserKhach>kh02</UserKhach>
+		<DiaChiDon>905</DiaChiDon>
+		<DiaChiDen>12</DiaChiDen>
+		<Distance>160</Distance>
+		<GioDon>15</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx04</UserTaiXe>
+		<UserKhach>kh02</UserKhach>
+		<DiaChiDon>250</DiaChiDon>
+		<DiaChiDen>700</DiaChiDen>
+		<Distance>18</Distance>
+		<GioDon>20</GioDon>
+		<NgayDi>21/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx05</UserTaiXe>
+		<UserKhach>kh03</UserKhach>
+		<DiaChiDon>30</DiaChiDon>
+		<DiaChiDen>880</DiaChiDen>
+		<Distance>300</Distance>
+		<GioDon>06</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx05</UserTaiXe>
+		<UserKhach>kh03</UserKhach>
+		<DiaChiDon>880</DiaChiDon>
+		<DiaChiDen>31</DiaChiDen>
+		<Distance>320</Distance>
+		<GioDon>14</GioDon>
+		<NgayDi>20/05/2026</NgayDi>
+	</ChuyenXe>
+	
+	<ChuyenXe>
+		<UserTaiXe>tx06</UserTaiXe>
+		<UserKhach>kh04</UserKhach>
+		<DiaChiDon>444</DiaChiDon>
+		<DiaChiDen>555</DiaChiDen>
+		<Distance>40</Distance>
+		<GioDon>11</GioDon>
+		<NgayDi>21/05/2026</NgayDi>
+	</ChuyenXe>
+
+</DSChuyenXe>

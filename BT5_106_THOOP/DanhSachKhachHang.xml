@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSKhach>
+	
+	<Khach>
+		<UserName>kh01</UserName>
+		<Password>123456</Password>
+		<PhoneNumber>0901111111</PhoneNumber>
+		<Status>Offline</Status>
+		<LoaiKhach>Thuong</LoaiKhach>
+	</Khach>
+	
+	<Khach>
+		<UserName>kh02</UserName>
+		<Password>abc123</Password>
+		<PhoneNumber>0902222222</PhoneNumber>
+		<Status>Online</Status>
+		<LoaiKhach>VIP</LoaiKhach>
+	</Khach>
+	
+	<Khach>
+		<UserName>kh03</UserName>
+		<Password>pass03</Password>
+		<PhoneNumber>0903333333</PhoneNumber>
+		<Status>Offline</Status>
+		<LoaiKhach>VIP</LoaiKhach>
+	</Khach>
+	
+	<Khach>
+		<UserName>kh04</UserName>
+		<Password>pass04</Password>
+		<PhoneNumber>0904444444</PhoneNumber>
+		<Status>Offline</Status>
+		<LoaiKhach>Thuong</LoaiKhach>
+	</Khach>
+	
+</DSKhach>

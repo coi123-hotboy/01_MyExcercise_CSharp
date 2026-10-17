@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSTaiXe>
+	
+  <TaiXe>
+	  <!--Loai 1: Xe may-->
+    <Loai>1</Loai> 
+    <UserName>tx01</UserName>
+    <Password>111</Password>
+    <PhoneNumber>0911111111</PhoneNumber>
+    <Status>Online</Status>
+    <MaSo>TX001</MaSo>
+    <TenTX>Nguyen Van A</TenTX>
+  </TaiXe>
+	
+  <TaiXe>
+    <Loai>1</Loai>
+    <UserName>tx02</UserName>
+    <Password>222</Password>
+    <PhoneNumber>0922222222</PhoneNumber>
+    <Status>Offline</Status>
+    <MaSo>TX002</MaSo>
+    <TenTX>Tran Van B</TenTX>
+  </TaiXe>
+
+	<!--Loai 2: Xe o to-->
+  <TaiXe>
+    <Loai>2</Loai>
+    <UserName>tx03</UserName>
+    <Password>333</Password>
+    <PhoneNumber>0933333333</PhoneNumber>
+    <Status>Online</Status>
+    <MaSo>TX003</MaSo>
+    <TenTX>Le Van C</TenTX>
+    <SoChoNgoi>4</SoChoNgoi>
+  </TaiXe>
+	
+  <TaiXe>
+    <Loai>2</Loai>
+    <UserName>tx04</UserName>
+    <Password>444</Password>
+    <PhoneNumber>0944444444</PhoneNumber>
+    <Status>Online</Status>
+    <MaSo>TX004</MaSo>
+    <TenTX>Pham Van D</TenTX>
+    <SoChoNgoi>7</SoChoNgoi>
+  </TaiXe>
+
+	<!--Loai 3: Xe o to tai-->
+  <TaiXe>
+    <Loai>3</Loai>
+    <UserName>tx05</UserName>
+    <Password>555</Password>
+    <PhoneNumber>0955555555</PhoneNumber>
+    <Status>Offline</Status>
+    <MaSo>TX005</MaSo>
+    <TenTX>Hoang Van E</TenTX>
+    <TrongTai>2.5</TrongTai>
+  </TaiXe>
+	
+  <TaiXe>
+    <Loai>3</Loai>
+    <UserName>tx06</UserName>
+    <Password>666</Password>
+    <PhoneNumber>0966666666</PhoneNumber>
+    <Status>Online</Status>
+    <MaSo>TX006</MaSo>
+    <TenTX>Vo Van F</TenTX>
+    <TrongTai>5</TrongTai>
+  </TaiXe>
+</DSTaiXe>
